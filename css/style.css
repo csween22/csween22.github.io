@@ -1,0 +1,24 @@
+body
+{
+  background-color: lightblue;
+}
+h1, h2
+{
+  color: #ab22cc;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+p
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16;
+  padding: 10px 20px;
+}
+div
+{
+  display: inline-block;
+}
+.one-third
+{
+  width: 33%;
+}
