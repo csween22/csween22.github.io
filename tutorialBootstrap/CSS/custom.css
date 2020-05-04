@@ -1,0 +1,24 @@
+.jumbotron
+{
+  /* background-color: #b49145; */
+  background: url("https://placeimg.com/1000/480/tech");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jumbotron.home
+{
+  background-image: url("https://placeimg.com/1000/480/nature");
+}
+.jumbotron.contact
+{
+  background-image: url("https://placeimg.com/1000/480/arch");
+}
+.jumbotron.about
+{
+  background-image: url("https://placeimg.com/1000/480/people");
+}
+
+.jumbotron h1, .jumbotron p
+{
+  color: red;
+}
