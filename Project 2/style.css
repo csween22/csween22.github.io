@@ -1,0 +1,31 @@
+body{
+  background-color: rgb(29, 30, 32);
+}
+p{
+ color: white;
+ text-align: center;
+}
+h2{
+  color: white;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  text-decoration: underline;
+}
+h1{
+  color: white;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+ul{
+  color: white;
+  text-align: center;
+}
+li{
+  color: white;
+  text-align: center;
+}
+h3 {
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
